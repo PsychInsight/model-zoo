@@ -13,3 +13,9 @@ Albohn, D. N., Uddenberg, S., & Todorov, A. (2025). [Individualized Models of So
 GitHub Direct Link: https://github.com/PsychInsight/model-zoo/releases/download/v2.0.0-alpha/NAMFHQ-config-f-004000.pt
 
 Huggingface Link: https://huggingface.co/PsychInsight/NAMFHQ-V2
+
+### Color Models - Generate nearly any random color
+
+Albohn, D. N., & Todorov, A. (2025, June 26). Using Generative AI to Model and Visualize Individualized Color Preferences. Retrieved from osf.io/preprints/psyarxiv/unv3z_v1
+
+Huggingface Link: (Coming soon).
